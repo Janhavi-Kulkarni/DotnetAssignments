@@ -1,0 +1,11 @@
+E:\C# Assignments\bin\Debug\netcoreapp2.1\C# Assignments.deps.json
+E:\C# Assignments\bin\Debug\netcoreapp2.1\C# Assignments.runtimeconfig.json
+E:\C# Assignments\bin\Debug\netcoreapp2.1\C# Assignments.runtimeconfig.dev.json
+E:\C# Assignments\bin\Debug\netcoreapp2.1\C# Assignments.dll
+E:\C# Assignments\bin\Debug\netcoreapp2.1\C# Assignments.pdb
+E:\C# Assignments\obj\Debug\netcoreapp2.1\C# Assignments.csprojAssemblyReference.cache
+E:\C# Assignments\obj\Debug\netcoreapp2.1\C# Assignments.csproj.CoreCompileInputs.cache
+E:\C# Assignments\obj\Debug\netcoreapp2.1\C# Assignments.AssemblyInfoInputs.cache
+E:\C# Assignments\obj\Debug\netcoreapp2.1\C# Assignments.AssemblyInfo.cs
+E:\C# Assignments\obj\Debug\netcoreapp2.1\C# Assignments.dll
+E:\C# Assignments\obj\Debug\netcoreapp2.1\C# Assignments.pdb

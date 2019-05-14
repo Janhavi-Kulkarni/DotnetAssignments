@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "e:\\C# Assignments\\C# Assignments.csproj": {}
+  },
+  "projects": {
+    "e:\\C# Assignments\\C# Assignments.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "e:\\C# Assignments\\C# Assignments.csproj",
+        "projectName": "C# Assignments",
+        "projectPath": "e:\\C# Assignments\\C# Assignments.csproj",
+        "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
+        "outputPath": "e:\\C# Assignments\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janhavi.kulkarni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
