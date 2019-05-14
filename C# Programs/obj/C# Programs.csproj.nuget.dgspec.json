@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\C# Programs\\C# Programs.csproj": {}
+  },
+  "projects": {
+    "E:\\C# Programs\\C# Programs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# Programs\\C# Programs.csproj",
+        "projectName": "C# Programs",
+        "projectPath": "E:\\C# Programs\\C# Programs.csproj",
+        "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Programs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janhavi.kulkarni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
