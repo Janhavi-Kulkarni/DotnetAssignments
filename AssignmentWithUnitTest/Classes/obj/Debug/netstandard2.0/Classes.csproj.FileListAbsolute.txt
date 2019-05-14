@@ -1,0 +1,9 @@
+c:\Users\janhavi.kulkarni\VSCodeWorkspace\AssignmentWithUnitTest\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+c:\Users\janhavi.kulkarni\VSCodeWorkspace\AssignmentWithUnitTest\Classes\bin\Debug\netstandard2.0\Classes.dll
+c:\Users\janhavi.kulkarni\VSCodeWorkspace\AssignmentWithUnitTest\Classes\bin\Debug\netstandard2.0\Classes.pdb
+c:\Users\janhavi.kulkarni\VSCodeWorkspace\AssignmentWithUnitTest\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+c:\Users\janhavi.kulkarni\VSCodeWorkspace\AssignmentWithUnitTest\Classes\obj\Debug\netstandard2.0\Classes.csproj.CoreCompileInputs.cache
+c:\Users\janhavi.kulkarni\VSCodeWorkspace\AssignmentWithUnitTest\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+c:\Users\janhavi.kulkarni\VSCodeWorkspace\AssignmentWithUnitTest\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+c:\Users\janhavi.kulkarni\VSCodeWorkspace\AssignmentWithUnitTest\Classes\obj\Debug\netstandard2.0\Classes.dll
+c:\Users\janhavi.kulkarni\VSCodeWorkspace\AssignmentWithUnitTest\Classes\obj\Debug\netstandard2.0\Classes.pdb
