@@ -1,0 +1,11 @@
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\obj\Debug\netcoreapp2.1\SeleniumAssignment.csprojAssemblyReference.cache
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\obj\Debug\netcoreapp2.1\SeleniumAssignment.csproj.CoreCompileInputs.cache
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\obj\Debug\netcoreapp2.1\SeleniumAssignment.AssemblyInfoInputs.cache
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\obj\Debug\netcoreapp2.1\SeleniumAssignment.AssemblyInfo.cs
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\bin\Debug\netcoreapp2.1\SeleniumAssignment.deps.json
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\bin\Debug\netcoreapp2.1\SeleniumAssignment.runtimeconfig.json
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\bin\Debug\netcoreapp2.1\SeleniumAssignment.runtimeconfig.dev.json
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\bin\Debug\netcoreapp2.1\SeleniumAssignment.dll
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\bin\Debug\netcoreapp2.1\SeleniumAssignment.pdb
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\obj\Debug\netcoreapp2.1\SeleniumAssignment.dll
+C:\CSharpGit\DotnetAssignments\SeleniumAssignment\obj\Debug\netcoreapp2.1\SeleniumAssignment.pdb
