@@ -60,13 +60,6 @@ namespace SeleniumAssignment
        {
            driver.Close();
        }
-        static void Main(string[] args)
-        {
-           SeleniumCommands sel =new SeleniumCommands();
-           sel.InitializeBrowser();
-           sel.BrowserCommands();
-          sel.NavigationCommands();
-          sel.CloseBrowser();
-        }
+      
     }
 }
