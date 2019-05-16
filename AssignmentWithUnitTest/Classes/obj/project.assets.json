@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janhavi.kulkarni\\VSCodeWorkspace\\AssignmentWithUnitTest\\Classes\\Classes.csproj",
+      "projectUniqueName": "c:\\CSharpGit\\DotnetAssignments\\AssignmentWithUnitTest\\Classes\\Classes.csproj",
       "projectName": "Classes",
-      "projectPath": "C:\\Users\\janhavi.kulkarni\\VSCodeWorkspace\\AssignmentWithUnitTest\\Classes\\Classes.csproj",
+      "projectPath": "c:\\CSharpGit\\DotnetAssignments\\AssignmentWithUnitTest\\Classes\\Classes.csproj",
       "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janhavi.kulkarni\\VSCodeWorkspace\\AssignmentWithUnitTest\\Classes\\obj\\",
+      "outputPath": "c:\\CSharpGit\\DotnetAssignments\\AssignmentWithUnitTest\\Classes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

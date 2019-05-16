@@ -1,0 +1,15 @@
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.deps.json
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.json
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.dev.json
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csprojAssemblyReference.cache
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.dll
+C:\CSharpGit\DotnetAssignments\XPath Assignment\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.pdb

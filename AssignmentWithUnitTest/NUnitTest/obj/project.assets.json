@@ -5740,11 +5740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janhavi.kulkarni\\VSCodeWorkspace\\AssignmentWithUnitTest\\NUnitTest\\NUnitTest.csproj",
+      "projectUniqueName": "c:\\CSharpGit\\DotnetAssignments\\AssignmentWithUnitTest\\NUnitTest\\NUnitTest.csproj",
       "projectName": "NUnitTest",
-      "projectPath": "C:\\Users\\janhavi.kulkarni\\VSCodeWorkspace\\AssignmentWithUnitTest\\NUnitTest\\NUnitTest.csproj",
+      "projectPath": "c:\\CSharpGit\\DotnetAssignments\\AssignmentWithUnitTest\\NUnitTest\\NUnitTest.csproj",
       "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janhavi.kulkarni\\VSCodeWorkspace\\AssignmentWithUnitTest\\NUnitTest\\obj\\",
+      "outputPath": "c:\\CSharpGit\\DotnetAssignments\\AssignmentWithUnitTest\\NUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5761,8 +5761,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\janhavi.kulkarni\\VSCodeWorkspace\\AssignmentWithUnitTest\\Classes\\Classes.csproj": {
-              "projectPath": "C:\\Users\\janhavi.kulkarni\\VSCodeWorkspace\\AssignmentWithUnitTest\\Classes\\Classes.csproj"
+            "c:\\CSharpGit\\DotnetAssignments\\AssignmentWithUnitTest\\Classes\\Classes.csproj": {
+              "projectPath": "c:\\CSharpGit\\DotnetAssignments\\AssignmentWithUnitTest\\Classes\\Classes.csproj"
             }
           }
         }

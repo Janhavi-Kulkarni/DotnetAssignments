@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpGit\\DotnetAssignments\\SeleniumAssignment\\SeleniumAssignment.csproj": {}
+    "c:\\CSharpGit\\DotnetAssignments\\SeleniumAssignment\\SeleniumAssignment.csproj": {}
   },
   "projects": {
-    "C:\\CSharpGit\\DotnetAssignments\\SeleniumAssignment\\SeleniumAssignment.csproj": {
+    "c:\\CSharpGit\\DotnetAssignments\\SeleniumAssignment\\SeleniumAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpGit\\DotnetAssignments\\SeleniumAssignment\\SeleniumAssignment.csproj",
+        "projectUniqueName": "c:\\CSharpGit\\DotnetAssignments\\SeleniumAssignment\\SeleniumAssignment.csproj",
         "projectName": "SeleniumAssignment",
-        "projectPath": "C:\\CSharpGit\\DotnetAssignments\\SeleniumAssignment\\SeleniumAssignment.csproj",
+        "projectPath": "c:\\CSharpGit\\DotnetAssignments\\SeleniumAssignment\\SeleniumAssignment.csproj",
         "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpGit\\DotnetAssignments\\SeleniumAssignment\\obj\\",
+        "outputPath": "c:\\CSharpGit\\DotnetAssignments\\SeleniumAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
