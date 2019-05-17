@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Assignments\\C# Assignments.csproj",
+      "projectUniqueName": "c:\\CSharpGit\\DotnetAssignments\\C# Assignments\\C# Assignments.csproj",
       "projectName": "C# Assignments",
-      "projectPath": "E:\\C# Assignments\\C# Assignments.csproj",
+      "projectPath": "c:\\CSharpGit\\DotnetAssignments\\C# Assignments\\C# Assignments.csproj",
       "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Assignments\\obj\\",
+      "outputPath": "c:\\CSharpGit\\DotnetAssignments\\C# Assignments\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
