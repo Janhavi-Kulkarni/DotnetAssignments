@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C# Programs\\C# Programs.csproj": {}
+    "c:\\CSharpGit\\DotnetAssignments\\C# Programs\\C# Programs.csproj": {}
   },
   "projects": {
-    "E:\\C# Programs\\C# Programs.csproj": {
+    "c:\\CSharpGit\\DotnetAssignments\\C# Programs\\C# Programs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# Programs\\C# Programs.csproj",
+        "projectUniqueName": "c:\\CSharpGit\\DotnetAssignments\\C# Programs\\C# Programs.csproj",
         "projectName": "C# Programs",
-        "projectPath": "E:\\C# Programs\\C# Programs.csproj",
+        "projectPath": "c:\\CSharpGit\\DotnetAssignments\\C# Programs\\C# Programs.csproj",
         "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
-        "outputPath": "E:\\C# Programs\\obj\\",
+        "outputPath": "c:\\CSharpGit\\DotnetAssignments\\C# Programs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
