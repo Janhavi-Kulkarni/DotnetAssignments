@@ -1,0 +1,4 @@
+C:\CSharpGit\DotnetAssignments\Specflow Assmt\obj\Debug\netstandard2.0\Specflow Assmt.csprojAssemblyReference.cache
+C:\CSharpGit\DotnetAssignments\Specflow Assmt\obj\Debug\netstandard2.0\Specflow Assmt.csproj.CoreCompileInputs.cache
+C:\CSharpGit\DotnetAssignments\Specflow Assmt\obj\Debug\netstandard2.0\Specflow Assmt.AssemblyInfoInputs.cache
+C:\CSharpGit\DotnetAssignments\Specflow Assmt\obj\Debug\netstandard2.0\Specflow Assmt.AssemblyInfo.cs
