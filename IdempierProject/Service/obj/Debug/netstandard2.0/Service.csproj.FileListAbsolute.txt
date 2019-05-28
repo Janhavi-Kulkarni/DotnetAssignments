@@ -1,0 +1,9 @@
+C:\CSharpGit\DotnetAssignments\IdempierProject\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\CSharpGit\DotnetAssignments\IdempierProject\Service\bin\Debug\netstandard2.0\Service.dll
+C:\CSharpGit\DotnetAssignments\IdempierProject\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\CSharpGit\DotnetAssignments\IdempierProject\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\CSharpGit\DotnetAssignments\IdempierProject\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\CSharpGit\DotnetAssignments\IdempierProject\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\CSharpGit\DotnetAssignments\IdempierProject\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\CSharpGit\DotnetAssignments\IdempierProject\Service\obj\Debug\netstandard2.0\Service.dll
+C:\CSharpGit\DotnetAssignments\IdempierProject\Service\obj\Debug\netstandard2.0\Service.pdb
