@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\NUnitTest\\NUnitTest.csproj": {}
+    "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\NUnitTest\\NUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\NUnitTest\\NUnitTest.csproj": {
+    "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\NUnitTest\\NUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\NUnitTest\\NUnitTest.csproj",
+        "projectUniqueName": "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\NUnitTest\\NUnitTest.csproj",
         "projectName": "NUnitTest",
-        "projectPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\NUnitTest\\NUnitTest.csproj",
+        "projectPath": "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\NUnitTest\\NUnitTest.csproj",
         "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\NUnitTest\\obj\\",
+        "outputPath": "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\NUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\Service.csproj": {
-                "projectPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\Service.csproj"
+              "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\Service.csproj": {
+                "projectPath": "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\Service.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\Service.csproj": {
+    "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\Service.csproj",
+        "projectUniqueName": "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\Service.csproj",
+        "projectPath": "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\obj\\",
+        "outputPath": "c:\\CSharpGit\\DotnetAssignments\\IdempierProject\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

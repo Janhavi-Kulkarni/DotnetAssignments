@@ -1,4 +1,0 @@
-C:\CSharpGit\DotnetAssignments\SpecFlowDemo\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.csprojAssemblyReference.cache
-C:\CSharpGit\DotnetAssignments\SpecFlowDemo\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.csproj.CoreCompileInputs.cache
-C:\CSharpGit\DotnetAssignments\SpecFlowDemo\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.AssemblyInfoInputs.cache
-C:\CSharpGit\DotnetAssignments\SpecFlowDemo\NUnitTest\obj\Debug\netcoreapp2.1\NUnitTest.AssemblyInfo.cs
