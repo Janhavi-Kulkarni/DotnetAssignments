@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
+using TechTalk.SpecFlow;
 
 namespace StepDefinition
 {
     public class IdempierDef
     {
+          [Binding]
          IWebDriver driver;
         private static DefaultWait<IWebDriver> fluentWait;
 
