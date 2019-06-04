@@ -1,0 +1,9 @@
+C:\CSharpGit\DotnetAssignments\IdempierWithSpecflow\NUnitTest\StepDefinition\obj\Debug\netstandard2.0\StepDefinition.csprojAssemblyReference.cache
+C:\CSharpGit\DotnetAssignments\IdempierWithSpecflow\NUnitTest\StepDefinition\obj\Debug\netstandard2.0\StepDefinition.csproj.CoreCompileInputs.cache
+C:\CSharpGit\DotnetAssignments\IdempierWithSpecflow\NUnitTest\StepDefinition\obj\Debug\netstandard2.0\StepDefinition.AssemblyInfoInputs.cache
+C:\CSharpGit\DotnetAssignments\IdempierWithSpecflow\NUnitTest\StepDefinition\obj\Debug\netstandard2.0\StepDefinition.AssemblyInfo.cs
+C:\CSharpGit\DotnetAssignments\IdempierWithSpecflow\NUnitTest\StepDefinition\bin\Debug\netstandard2.0\StepDefinition.deps.json
+C:\CSharpGit\DotnetAssignments\IdempierWithSpecflow\NUnitTest\StepDefinition\bin\Debug\netstandard2.0\StepDefinition.dll
+C:\CSharpGit\DotnetAssignments\IdempierWithSpecflow\NUnitTest\StepDefinition\bin\Debug\netstandard2.0\StepDefinition.pdb
+C:\CSharpGit\DotnetAssignments\IdempierWithSpecflow\NUnitTest\StepDefinition\obj\Debug\netstandard2.0\StepDefinition.dll
+C:\CSharpGit\DotnetAssignments\IdempierWithSpecflow\NUnitTest\StepDefinition\obj\Debug\netstandard2.0\StepDefinition.pdb

@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\NUnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\NUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\NUnitTest.csproj",
+        "projectName": "NUnitTest",
+        "projectPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\NUnitTest.csproj",
+        "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
+        "outputPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janhavi.kulkarni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\StepDefinition.csproj": {
+                "projectPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\StepDefinition.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\StepDefinition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\StepDefinition.csproj",
+        "projectName": "StepDefinition",
+        "projectPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\StepDefinition.csproj",
+        "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
+        "outputPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janhavi.kulkarni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[2.46.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
