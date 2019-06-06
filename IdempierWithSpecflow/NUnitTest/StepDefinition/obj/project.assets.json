@@ -3296,22 +3296,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\StepDefinition.csproj",
+      "projectUniqueName": "c:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\StepDefinition.csproj",
       "projectName": "StepDefinition",
-      "projectPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\StepDefinition.csproj",
+      "projectPath": "c:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\StepDefinition.csproj",
       "packagesPath": "C:\\Users\\janhavi.kulkarni\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\obj\\",
+      "outputPath": "c:\\CSharpGit\\DotnetAssignments\\IdempierWithSpecflow\\NUnitTest\\StepDefinition\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\janhavi.kulkarni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\janhavi.kulkarni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
